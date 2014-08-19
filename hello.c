@@ -3,4 +3,13 @@
 int main()
 {
   return ;
+
+}
+
+void addMothding()
+{
+  begin ......
+
+  over ......
+	
 }
