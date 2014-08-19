@@ -3,6 +3,15 @@
 int main()
 {
   return ;
+
+}
+
+void addMothding()
+{
+  begin ......
+
+  over ......
+	
 }
 
 
@@ -18,3 +27,4 @@ public static void main(String[] args)
 
 
 222222222222222222222
+1111111 on windows 
